@@ -27,7 +27,7 @@ export default function About() {
             variants={fadeInUp}
           >
             <img
-              src="public/mypic.jpeg"
+              src="../public/mypic.jpeg"
               alt="Ayushi Chaudhary"
               className="w-80 h-80 object-cover rounded-full shadow-lg"
             />
