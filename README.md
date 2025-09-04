@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and background as a developer. It's built to give visitors a clear idea of who I am and what I can do.
 
-## 🔗 Live Demo
-
-[Click here to view the website](https://portfolio-five-lemon-85.vercel.app/)
 
 ## 📁 Features
 
